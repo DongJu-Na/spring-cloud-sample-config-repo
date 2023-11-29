@@ -1,6 +1,2 @@
-spring:
-  profiles:
-    active: prod
-
 config:
-  current: prod
+  profile: prod
