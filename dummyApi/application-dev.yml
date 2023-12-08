@@ -1,4 +1,6 @@
 spring:
+  profiles:
+    active: dev
   webflux:
     multipart:
       max-in-memory-size: 512KB
