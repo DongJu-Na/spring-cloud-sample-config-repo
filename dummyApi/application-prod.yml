@@ -5,3 +5,6 @@ spring:
       max-parts: 3
       max-disk-usage-per-part: 1024KB
       max-headers-size: 5KB
+
+service:
+ name: prod test
