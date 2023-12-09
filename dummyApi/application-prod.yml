@@ -7,4 +7,4 @@ spring:
       max-headers-size: 5KB
 
 service:
- name: prod test !!
+ name: prod test !!!
